@@ -10,4 +10,4 @@ function to take in a two-dimensional search space (2D array of characters) and 
 # Output word searching example:
 
 ![output](https://user-images.githubusercontent.com/60450753/122706985-b73cd080-d21e-11eb-8a66-4e2d764c48d0.png)
-
+![output2](https://user-images.githubusercontent.com/60450753/122776589-dbc19880-d270-11eb-87c9-507220e50b1e.PNG)
